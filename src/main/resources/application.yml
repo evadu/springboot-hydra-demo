@@ -1,0 +1,7 @@
+server:
+  port: 443
+  ssl:
+    enabled: true
+    key-store: classpath:cert/3188674_expire.pfx
+    key-store-password: 7YNAfhBS
+    keyStoreType: PKCS12
